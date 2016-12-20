@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ede14501a1f5b551fe70ba9662b11da747932a7f">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_524f2995ad681832143da3a3d6dae2bb1c132f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_2d69ecc0ecd063e840cdb292b84019cadd224a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_393f5c64704d2a265e8cfc509850a5abf49c1755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_08be05f0b28139ee28d9d9b45fba82e9b5e47b62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_b85194558cf77f333cdf63c144fe641370e679bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_cf59f6eb35a6da9a8fb58072a8c2e9dafc4f49ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_db0bc6ca60aca29f97d10b25bfd7f7d620b39a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_18a5dbed81f6bbdc5a3400e19d1b811e5f3e576c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_be5294413e6455215970c47afeaa49e3bfca2315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7d84e83d97f2becf70bb4444bcda1e8a3669b8fc">
+        <dex dex="C:\Users\accel\StudioProjects\CustomMapMarker\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fc123f70282ec9927e98e44b8ed67406d9ea3bcb\classes.dex" />
+    </item>
+
+</items>

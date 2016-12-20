@@ -1,0 +1,7 @@
+#Tue Dec 20 13:18:10 EET 2016
+base.0=C\:\\Users\\accel\\StudioProjects\\CustomMapMarker\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_524f2995ad681832143da3a3d6dae2bb1c132f5b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\accel\\StudioProjects\\CustomMapMarker\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc123f70282ec9927e98e44b8ed67406d9ea3bcb\\classes.dex
+base.1=C\:\\Users\\accel\\StudioProjects\\CustomMapMarker\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc123f70282ec9927e98e44b8ed67406d9ea3bcb
+file.0=C\:\\Users\\accel\\StudioProjects\\CustomMapMarker\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_524f2995ad681832143da3a3d6dae2bb1c132f5b\\classes.dex
